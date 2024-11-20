@@ -1,23 +1,23 @@
-The Routing Area working group (RTGWG) is chartered to provide a
+The Routing Area Working Group (RTGWG) is chartered to provide a
 venue to discuss, evaluate, support and develop proposals for
-new work in the Routing Area and may work on specific small topics
-that do not fit with an existing working group.
+new work in the Routing Area. It may also work on specific small topics
+that do not fit within any existing working groups. An example of such a small topic is a draft that might otherwise be AD-sponsored but which could benefit from the review and consensus that RTGWG can provide.
 
 Options for handling new work include:
+• Directing the work to an existing WG (including RTGWG)
+• Developing a proposal for a BoF.
+• Developing a charter and establishing consensus for a new WG. This
+option will primarily be used for fairly mature and/or well-defined efforts.
+• Conducting a careful evaluation, which may lead to deferring or rejecting work.
 
-Directing the work to an existing WG (including RTGWG)
-Developing a proposal for a BoF.
-Developing a charter and establishing consensus for a new WG. This
-option will primarily be used with fairly mature and/or well-defined efforts.
-Careful evaluation, leading to deferring or rejecting work.
 It is expected that the proposals for new work will only include items which
 are not aligned with the work of other WGs or that may span multiple WGs.
 The Area Directors and WG Chairs can provide guidance if there is any
 doubt whether a topic should be discussed in RTGWG.
 
-A major objective of the RTGWG is to provide timely, clear
+A major objective of the RTGWG is to provide timely and clear
 dispositions of new efforts. Where there is consensus to take
-on new work, the WG will strive to quickly find a home for it.
+on new work, the WG will strive to quickly find a suitable home for it.
 Reconsideration of proposals which have failed to gather consensus
 will be prioritized behind proposals for new work which have not
 yet been considered. In general, requests for reconsideration
@@ -30,36 +30,24 @@ with a summary of the evaluation. The Routing ADs may then choose
 to follow the normal IETF chartering process (potential BoF, IETF-wide
 review of the proposed charter, etc.).
 
-Guiding principles for evaluation of new work by RTGWG will include:
-
-Providing a clear problem statement for proposed new work.
-
-Prioritizing new efforts to manage the trade-offs between urgency,
+Guiding principles for the evaluation of new work by RTGWG will include:
+1. Providing a clear problem statement for proposed new work.
+2. Prioritizing new efforts to manage the trade-offs between urgency,
 interest, and available resources in the Routing Area.
-
-Looking for commonalities among ongoing efforts.
-Such commonalities may indicate the need to develop more
-general, reusable solutions.
-
-Ensuring appropriate cross-WG and cross-area review.
-
-Protecting the architectural integrity of the protocols developed
+3. Identifying commonalities among ongoing efforts, which may indicate the need to develop more general, reusable solutions.
+4. Ensuring appropriate cross-WG and cross-area review.
+5. Protecting the architectural integrity of the protocols developed
 in the Routing Area and ensuring that work has significant applicability.
 
-RTGWG may also work on specific small topics that do not fit with an existing working group. An example of a small topic is a draft that might otherwise be AD-sponsored but which could benefit from the review and consensus that RTGWG can provide.
+RTGWG may also work on specific small topics that do not fit within an existing working group. An example of such a small topic is a draft that might otherwise be AD-sponsored but which could benefit from the review and consensus that RTGWG can provide.
 
-RTGWG may work on larger topics, but must be explicitly rechartered to add the topic. The specific larger topics that RTGWG is currently chartered to work on:
-
-Enhancements to hop-by-hop distributed
-routing (e.g., multicast, LDP-MPLS, unicast routing) related to
-fast-reroute and loop-free convergence. A specific goal of
-fast-reroute mechanisms is to provide up to complete coverage when
-the potential failure would not partition the network. All work in
-this area should be specifically evaluated by the WG in terms of
+RTGWG may work on larger topics, but must be explicitly rechartered to add it. The specific larger topics that RTGWG is currently chartered to work on include:
+• Enhancements to hop-by-hop distributed
+routing (e.g., unicast and multicast routing, LDP/MPLS , Segment Routing) related to fast convergence with a goal of fast-reroute mechanisms to provide up to complete coverage when the potential failure would not partition the network. All work in this area should be specifically evaluated by the WG in terms of
 practicality and applicability to deployed networks.
-
-Routing-related YANG models that are not appropriate for other RTG working
+• Routing related YANG models that are not within the scope of other RTG working
 groups.
+• Incubation of routing-related new technologies, particularly focusing on problem statements, prior to achieving consensus for creating a new working group. This includes, but not limited to, the following topics: satellite routing, routing in data centers, and networking for AI clusters.
 
 The working group milestones will be updated as needed to reflect the
 proposals currently being worked on and the target dates for their
