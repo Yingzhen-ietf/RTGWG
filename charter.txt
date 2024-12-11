@@ -47,7 +47,7 @@ routing (e.g., unicast and multicast routing, LDP/MPLS , Segment Routing) relate
 practicality and applicability to deployed networks.
 • Routing related YANG models that are not within the scope of other RTG working
 groups.
-• Incubation of routing-related new technologies, particularly focusing on problem statements, prior to achieving consensus for creating a new working group. This includes, but not limited to, the following topics: satellite routing, routing in data centers, and networking for AI clusters.
+• Incubating new routing-related technologies by developing and discussing problem statements prior to reaching consensus, which can encourage proponents to request a BoF or recommend the formation of a new working group to the ADs. If the working group agrees to pursue a problem statement document, it will be added to the group’s milestones.
 
 The working group milestones will be updated as needed to reflect the
 proposals currently being worked on and the target dates for their
